@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Dhanush chevuri, a frontened developer 👨‍💻 studying B-tech 3rd year at KARE 🚀<br>🔭 I’m currently working as senior brand executive at TEACHNOOK<br><br>🌱 I’m currently learning Node Js and Sql<br><br>❓ Ask me about If you have any questions/feedback, please do not hesitate to reach out to me!<br><br>⚡ Fun fact: I use tabs over spaces<br><br>
+<br>I'm Dhanush chevuri, a frontened developer 👨‍💻 studying B-tech 3rd year at KARE 🚀<br><br>🔭 I’m currently working as senior brand executive at TEACHNOOK<br><br>🌱 I’m currently learning Node Js and Sql<br><br>❓ Ask me about If you have any questions/feedback, please do not hesitate to reach out to me!<br><br>⚡ Fun fact: I use tabs over spaces<br><br>
 
 
 ## 🌐 Socials:
