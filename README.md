@@ -1,56 +1,63 @@
 # 💫 About Me:
-🚀 I'm **Dhanush Chevuri**, a passionate **Frontend Developer** & **DevOps Enthusiast**, currently pursuing my **B.Tech 4th Year at KARE** (Kalvium Academy of Research and Education).<br><br>
+🚀 I'm **Dhanush Chevuri**, a passionate **Frontend Developer** & **DevOps Enthusiast**, currently pursuing my **B.Tech 4th Year at KARE**.<br><br>
 
-👨‍💻 I specialize in building responsive and user-friendly web interfaces using **modern JavaScript frameworks**.<br><br>
+👨‍💻 I specialize in building responsive and user-friendly web interfaces using modern JavaScript frameworks.<br><br>
 
-🛠️ I'm currently working as a **Junior Developer Intern @ Namoona 3D Labs**, where I collaborate on real-world applications.<br><br>
+🛠️ I’m currently working as a **Junior Developer Intern @ Namoona 3D Labs**.<br><br>
 
 📚 I'm actively learning and implementing **SQL**, and diving deep into **DevSecOps** practices for secure CI/CD pipelines.<br><br>
 
-💬 Whether it’s tech, open source, or career advice — feel free to reach out!<br><br>
+💬 Feel free to reach out for anything tech-related!<br><br>
 
 ⚡ **Fun Fact:** I prefer **tabs over spaces** and love automating boring tasks.
 
 ---
 
 ## 🌐 Connect with Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/damn_itx.dhanush_) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/dhanush-chevuri-48669a2a3) 
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new--v1.png)](https://instagram.com/damn_itx.dhanush_) 
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://in.linkedin.com/in/dhanush-chevuri-48669a2a3) 
 
 ---
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![React Native](https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white) 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/></a>
+  <a href="https://devdocs.io/c/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/></a>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://img.icons8.com/ultraviolet/48/000000/react--v1.png" alt="React Native"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="Supabase" width="40"/></a>
+  <a href="https://matplotlib.org/" target="_blank"><img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="40"/></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch" width="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/></a>
+</p>
 
 ---
 
 ## ☁️ DevOps & Cloud Tools:
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-%234285F4.svg?style=for-the-badge&logo=security&logoColor=white)
+
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub Actions"/></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" alt="Azure"/></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" alt="Terraform" width="40"/></a>
+  <a href="https://www.nginx.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nginx.png" alt="NGINX"/></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" width="40"/></a>
+  <a href="https://prometheus.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" alt="Prometheus" width="40"/></a>
+  <a href="https://grafana.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana"/></a>
+  <a href="#" target="_blank"><img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-cyber-security-cyber-security-flatart-icons-flat-flatarticons.png" alt="DevSecOps" width="42"/></a>
+</p>
 
 ---
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=dhanush-chevuri&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dhanush-chevuri&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush-chevuri&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
