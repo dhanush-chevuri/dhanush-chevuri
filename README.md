@@ -45,7 +45,7 @@
   <a href="https://kubernetes.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/></a>
   <a href="https://github.com/features/actions" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub Actions"/></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/></a>
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" alt="Azure"/></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40"/></a>
   <a href="https://www.terraform.io/" target="_blank"><img src="https://www.datocms-assets.com/2885/1620155116-brandhcterraformverticalcolor.svg" alt="Terraform" width="40"/></a>
   <a href="https://www.nginx.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nginx.png" alt="NGINX"/></a>
   <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" width="40"/></a>
