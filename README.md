@@ -15,7 +15,7 @@
 
 ## 🌐 Connect with Me:
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new--v1.png)](https://instagram.com/damn_itx.dhanush_) 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://in.linkedin.com/in/dhanush-chevuri-48669a2a3) 
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://in.linkedin.com/in/dhanush-chevuri-48669a2a3)
 
 ---
 
@@ -29,7 +29,7 @@
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/></a>
   <a href="https://reactnative.dev/" target="_blank"><img src="https://img.icons8.com/ultraviolet/48/000000/react--v1.png" alt="React Native"/></a>
   <a href="https://firebase.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/firebase.png" alt="Firebase"/></a>
-  <a href="https://supabase.com/" target="_blank"><img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="Supabase" width="40"/></a>
+  <a href="https://supabase.com/" target="_blank"><img src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-icon.svg" alt="Supabase" width="40"/></a>
   <a href="https://matplotlib.org/" target="_blank"><img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="Matplotlib" width="40"/></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" alt="PyTorch" width="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a>
@@ -51,7 +51,7 @@
   <a href="https://www.jenkins.io/" target="_blank"><img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" width="40"/></a>
   <a href="https://prometheus.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Prometheus_software_logo.svg" alt="Prometheus" width="40"/></a>
   <a href="https://grafana.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana"/></a>
-  <a href="#" target="_blank"><img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/external-cyber-security-cyber-security-flatart-icons-flat-flatarticons.png" alt="DevSecOps" width="42"/></a>
+  <a href="https://owasp.org/www-project-devsecops-maturity-model/" target="_blank"><img src="https://img.icons8.com/fluency/48/security-shield-green.png" alt="DevSecOps" width="42"/></a>
 </p>
 
 ---
